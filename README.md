@@ -1,2 +1,5 @@
-# modern-AI-chat-box
-nodejs, nextjs, react, websocket, graphQL
+# Space Travel
+
+This project is an example.
+
+used nodejs, nextjs, react, websocket, graphQL, Material UI.
