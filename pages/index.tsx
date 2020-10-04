@@ -15,7 +15,7 @@ const IndexPage: React.FC = () => {
       <AppBar position="static" color="default">
         <Toolbar>
           <Typography variant="h6" style={{ flexGrow: 1 }}>
-            ChatBox
+            <Link href="/">Space Travel</Link>
           </Typography>
           <Button color="inherit">
             <Link href="/register">Register</Link>
@@ -27,7 +27,7 @@ const IndexPage: React.FC = () => {
       </AppBar>
       <Container className={classes.banner}>
         <Typography variant="h2" component="h1" align="center" gutterBottom>
-          Modern AI Chat Box
+          Space Explorer
         </Typography>
       </Container>
     </>
