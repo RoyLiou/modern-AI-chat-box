@@ -1,4 +1,4 @@
-# Space Travel
+# Space Travel Client
 
 This project is an example.
 
